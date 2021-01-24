@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentOne</string>
+    <string name="button_text_toast">Toast</string>
+    <string name="button_countup_text">Count Up</string>
+    <string name="button_countdown_text">Count Down</string>
+    <string name="textview_placeholder">0</string>
+</resources>
